@@ -1,0 +1,19 @@
+Initiating Chrome driver...
+Application is launched Successfully
+user navigated successfully
+Title is displayed
+Details is not updated
+Selected Leave Type successfully
+Clicked on leave type CAN successfully2024-12-12
+Entered date successfully2024-12-13
+9
+Row 1: ['', 'Gerente IT', 'Account Assistant', 'A8DCo 010Z', 'Active', '']
+Row 2: ['', 'Junior Account Assistant', 'Account Assistant', '(Deleted)', 'Active', '']
+Row 3: ['', 'mm', 'Account Assistant', 'A8DCo 010Z', 'Active', '']
+Row 4: ['', 'Payroll Administrator', 'Payroll Administrator', 'prueba prueba3', 'Active', '']
+Row 5: ['', 'Sales Representative', 'Sales Representative', '(Deleted)', 'Active', '']
+Row 6: ['', 'Senior QA Lead', 'QA Lead', '(Deleted)', 'Active', '']
+Row 7: ['', 'Senior Support Specialist', 'Support Specialist', '(Deleted)', 'Active', '']
+Row 8: ['', 'Software Engineer', 'Software Engineer', '(Deleted)', 'Active', '']
+Row 9: ['', 'test', 'Account Assistant', 'Rahul Patil', 'Active', '']
+Closing the browser...
