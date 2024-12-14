@@ -123,6 +123,6 @@ def browser_cbt(request,params):
 #This is for reading data from json file
 @pytest.fixture()
 def readJson():
-    with open('D:\SJ_Assignment\Test Data\global.json') as json_file:
+    with open('Test Data\global.json') as json_file:
         data = json.load(json_file)
         return data
